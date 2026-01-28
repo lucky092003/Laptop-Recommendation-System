@@ -192,11 +192,5 @@ This project is licensed under the **MIT License**. See the `LICENSE` file for m
 
 ---
 
-## 11. Online Streamlit Images
-User Input Images:
-<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/b2ce9369-94dc-4754-8764-d60721b28da7" />
-
-Prediction Images:
-<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/bf1ad6d4-edbf-43db-b0f7-af4953d2d4db" />
 
 
